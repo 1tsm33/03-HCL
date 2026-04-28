@@ -14,7 +14,8 @@ def yes_no(question):
         else:
             print("pleas enter yes / no")
 
-
+y
+yes_no(yes_no())
 def instructions():
     """Prints instructions"""
 
